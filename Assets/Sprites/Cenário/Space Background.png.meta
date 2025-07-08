@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 41f1dad6914911d46b367dacee512f79
+guid: 024c4601cf5e0094bbff15d601d8c9ab
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 600
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -91,91 +91,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Navinha_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8da07337aad654c47b1d6e7d9935dd22
-      internalID: -855213088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Navinha_1
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f89f6c7b47ae60549ab66a1b47aaaf2e
-      internalID: -1375808114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Navinha_2
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be15285e72ad8244785becff3fa5956f
-      internalID: -1354308336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Navinha_3
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 0
-        width: 1024
-        height: 1024
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bbea615e8c4636b44aa1ddfec2035744
-      internalID: -108142449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -186,11 +102,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Navinha_0: -855213088
-      Navinha_1: -1375808114
-      Navinha_2: -1354308336
-      Navinha_3: -108142449
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
