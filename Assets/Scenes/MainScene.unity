@@ -298,9 +298,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefabs:
-  - {fileID: 492121480817780189, guid: d76f379f22f566f49b7e2d6b7020e9d2, type: 3}
-  - {fileID: 875235115353490101, guid: 620aaecbb879a624bbf80e4009757fad, type: 3}
-  - {fileID: 3974138500716224314, guid: d335dfc887182d54da5788a9730a6a66, type: 3}
+  - {fileID: 177278883676553230, guid: 48234a2594d0feb46a15daa88d1bc3cc, type: 3}
+  - {fileID: 177278883676553230, guid: 48234a2594d0feb46a15daa88d1bc3cc, type: 3}
+  - {fileID: 177278883676553230, guid: 48234a2594d0feb46a15daa88d1bc3cc, type: 3}
   spawnInterval: 2
 --- !u!4 &387794100
 Transform:
@@ -922,6 +922,7 @@ MonoBehaviour:
   firePoint: {fileID: 2129710490}
   fireRate: 0.25
   maxHealth: 3
+  explosionPrefab: {fileID: 4814461514014916737, guid: df87abe78a608174c98d0984cbd7d699, type: 3}
 --- !u!50 &1955557290
 Rigidbody2D:
   serializedVersion: 4

@@ -105,6 +105,7 @@ MonoBehaviour:
   enemyBulletPrefab: {fileID: 2736404885655587234, guid: ac3deed8a2c48e44798c7f834cd5b0be, type: 3}
   firePoint: {fileID: 5570949035835616359}
   fireRate: 2
+  explosionPrefab: {fileID: 0}
 --- !u!61 &-4019339705853951439
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -141,7 +142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5570949035835616359}
   m_Layer: 0
-  m_Name: firePointEnemy
+  m_Name: firePointEnemy1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
